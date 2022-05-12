@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.amandalima.workdaycalculator.holidays.VariableHolidaysTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-12T00:43:09" hostname="localhost.localdomain" time="0.029">
-  <properties/>
-  <testcase name="shouldCheckIfDateIsHoliday()" classname="com.amandalima.workdaycalculator.holidays.VariableHolidaysTest" time="0.029"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
